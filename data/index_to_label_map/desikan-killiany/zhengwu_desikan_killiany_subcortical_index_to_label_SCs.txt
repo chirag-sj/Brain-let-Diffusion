@@ -1,0 +1,25 @@
+# provided by Zhengwu to Yang. Seems subcortical FCs and SCs are NOT labeled consistently.
+# Personal research shows this mapping from id to label_name is consistent with some FreeSurfer standard below
+# https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/AnatomicalROI/FreeSurferColorLUT
+#subcortical regions （18）
+
+No. Label Name:        R   G   B   A
+4  LH_Lateral-Ventricle  120 18  134 0
+8  LH_Cerebellum-Cortex  230 148 34  0
+10 LH_Thalamus-Proper   0   118 14  0
+11 LH_Caudate           122 186 220 0
+12 LH_Putamen           236 13  176 0
+13 LH_Pallidum          12  48  255 0
+17 LH_Hippocampus       220 216 20  0
+18 LH_Amygdala          103 255 255 0
+26 LH_Accumbens         255 165 0   0         
+43 RH_Lateral-Ventricle 120 18  134 0
+47 RH_Cerebellum-Cortex 230 148 34  0
+49 RH_Thalamus-Proper   0   118 14  0
+50 RH_Caudate           122 186 220 0
+51 RH_Putamen           236 13  176 0
+52 RH_Pallidum          13  48  255 0
+53 RH_Hippocampus       220 216 20  0
+54 RH_Amygdala          103 255 255 0
+58 RH_Accumbens         255 165 0   0
+99 _Brain-Stem          119 159 176 0

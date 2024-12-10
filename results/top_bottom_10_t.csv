@@ -1,0 +1,11 @@
+,Top 10 t values,Top 10 brain regions,Bottom 10 t values,Bottom 10 brain regions
+0,0.05832558,ctx-lh-parahippocampal,1e-08,ctx-rh-posteriorcingulate
+1,0.0623326,ctx-rh-transversetemporal,2.18922e-08,LH_Caudate
+2,0.07161920000000001,ctx-rh-insula,3.12510512e-05,ctx-rh-rostralmiddlefrontal
+3,0.07717860000000001,ctx-lh-pericalcarine,4.8136714e-05,RH_Lateral-Ventricle
+4,0.077401,ctx-rh-parsopercularis,5.2209999999999996e-05,LH_Accumbens
+5,0.0785676,ctx-rh-pericalcarine,7.496653540000001e-05,ctx-rh-temporalpole
+6,0.0999308,ctx-lh-transversetemporal,0.00010145,ctx-rh-rostralanteriorcingulate
+7,0.1438306,ctx-lh-frontalpole,0.00017542800000000002,ctx-lh-paracentral
+8,0.162382,ctx-rh-bankssts,0.00018533047240000002,ctx-lh-rostralmiddlefrontal
+9,0.20740599999999998,ctx-rh-frontalpole,0.00023185884860000002,ctx-rh-lateraloccipital
